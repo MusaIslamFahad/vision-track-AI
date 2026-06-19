@@ -24,7 +24,7 @@ short_description: Real-time Object Detection & Tracking with YOLOv8 + BoT-SORT
 ![Plotly](https://img.shields.io/badge/Plotly-Analytics-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![W&B](https://img.shields.io/badge/Weights_%26_Biases-Logging-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
-![Internship](https://img.shields.io/badge/CodeAlpha-AI%20Internship%20·%20Task%204-orange?style=for-the-badge)
+
 
 **Production-grade object detection and tracking - YOLOv8 + BoT-SORT/ByteTrack, interactive Streamlit dashboard, Plotly analytics, MP4 export and optional W&B logging.**
 
