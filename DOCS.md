@@ -17,6 +17,7 @@
 It detects and tracks 80 COCO object classes across images, videos, and live webcam streams,
 with a fully interactive Streamlit dashboard, real-time analytics, and optional W&B logging.
 
+
 ---
 
 ## ✨ Features
